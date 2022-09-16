@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<h1 align="center">Hi 👋, I'm Ali Nour Eldin</h1>
 <h3 align="center">A PhD student between Telecom SudParis and Bonitasoft</h3>
 
 - 🔭 I’m currently working on **Data-aware and low-code**
